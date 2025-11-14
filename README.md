@@ -1,1 +1,1 @@
-Je suis une erreur pour l'exercice 2 !
+deux fonctionnalités
