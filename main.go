@@ -12,3 +12,11 @@ func ColorHandler(w http.ResponseWriter, r *http.Request) {
 func main() {
 	http.HandleFunc("/color", ColorHandler)
 }
+
+/*
+chmod +x ./script
+./fake-colleague.sh https://github.com/remybms/git-exam.git
+me renvoie une erreur, je ne peut pas l'intégré
+
+
+*/
