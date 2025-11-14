@@ -12,3 +12,13 @@ func ColorHandler(w http.ResponseWriter, r *http.Request) {
 func main() {
 	http.HandleFunc("/color", ColorHandler)
 }
+
+/*
+les branches :
+\  dev2
+\  develop
+?  feature-color
+\  feature-url
+\  hotfix
+\  main
+*/
