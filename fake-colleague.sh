@@ -1,0 +1,1 @@
+./fake-colleague.sh https://github.com/remybms/git-exam
